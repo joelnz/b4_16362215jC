@@ -1,7 +1,5 @@
 # www.robotstxt.org/
 
-User-agent: *
-Disallow: /cvj/
 
 User-agent: ia_archiver
 Disallow: /
